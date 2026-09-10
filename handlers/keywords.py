@@ -68,7 +68,7 @@ async def keyword_handler(client: Client, message: Message) -> None:
         await message.reply_text(
             "📁 <b>الدرايف</b>\n\n"
             f"🔗 {LINKS['الدرايف']}"
-  elif "المكتبات" in text:
+ elif "المكتبات" in text:
     await message.reply_text(
         "📚 <b>المكتبات</b>\n\n"
         "🔗 https://m-itqan.com"
