@@ -54,7 +54,7 @@ def register_all_handlers(app: Client) -> None:
     locks.register(app)
     moderation.register(app)
     antispam.register(app)
-keywords.register(app)
+    keywords.register(app)
     logger.info("All handlers registered.")
 
 
