@@ -13,6 +13,7 @@ LINKS = {
     "البانر": "https://services.kfu.edu.sa/banner/",
     "التقويم": "https://www.kfu.edu.sa/ar/Deans/E-Learning/Pages/Interactive_Calender.aspx",
     "الدرايف": "https://drive.google.com/drive/folders/1ntddDMjYMZVdoJ8DDE-A89FkEjbnz6iZ",
+    "المكتبات": "https://m-itqan.com"
 }
 
 
